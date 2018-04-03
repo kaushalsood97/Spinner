@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Avengers">
+        <item> Tony</item>
+        <item> Thor</item>
+        <item> Hulk</item>
+        <item> Captain</item>
+        <item> THonous</item>
+
+    </string-array>
+</resources>
